@@ -1,0 +1,31 @@
+{
+  "name": "etda-idp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "dotenv": "^5.0.1",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.2.0",
+    "ldapjs": "^1.0.2",
+    "mongoose": "^5.0.8",
+    "morgan": "~1.9.0",
+    "oauth2-server": "^3.0.0",
+    "pem-jwk": "^1.5.1",
+    "qrcode": "^1.2.0",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.4.5",
+    "speakeasy": "^2.0.0",
+    "thirty-two": "^1.0.2",
+    "url": "^0.11.0",
+    "uuid": "^3.2.1"
+  }
+}

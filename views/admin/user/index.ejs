@@ -1,0 +1,284 @@
+<%- include ../layout/header.ejs %>  
+<script>
+    function deleteUser(userObjectId){
+      if(confirm("Do you want to delete this user?")) {
+        $.ajax({
+            url: '<%=baseUrl%>/admin/user/'+userObjectId,
+            type: 'DELETE',
+            success: function(result) {
+                console.log(result)
+                location.reload();
+            }
+        });
+      }
+    }
+
+    function editUser(userObjectId) {
+      var baseUrl = '<%=baseUrl%>/admin/user/' + userObjectId;
+      $.getJSON(baseUrl, function(data){
+        $('#edit_username').val(data.username);
+        $('#edit_firstname').val(data.firstname);
+        $('#edit_lastname').val(data.lastname);
+        $('#edit_email').val(data.email);
+        $('#edit_national_id').val(data.nationalId);
+        $('#edit_passport_number').val(data.passportNumber);
+        $('#edit_career').val(data.career);
+        $('#edit_birthdate').val(data.birthdate);
+        $('#edit_phone_number').val(data.phoneNumber);
+        $('#edit_address').val(data.address);
+        $('#edit_business_address').val(data.businessAddress);
+        $('#edit_otp_qr_code').attr("src", data.otpQRCode);
+        $('#edit_user_form').attr("action", baseUrl);
+        $('.edit_user_modal').modal();
+      })
+    }
+
+</script>
+      <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>
+        User 
+        <small>System Admin </small>
+      </h1>
+      <ol class="breadcrumb">
+        <li><a href="#"><i class="fa fa-users"></i> User</a></li>
+        
+      </ol>
+    </section>
+
+    <!--  Modal content for edit a user -->
+    <div class="modal fade edit_user_modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" style="display: none;">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" id="myLargeModalLabel">Edit User</h4>
+                </div>
+                <div class="modal-body">
+                    <form role="form" id="edit_user_form" class="form-horizontal" method="post">
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Firstname</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_firstname" name="firstname" class="form-control" placeholder="Firstname">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Lastname</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_lastname" name="lastname" class="form-control" placeholder="Lastname">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Email</label>
+                            <div class="col-sm-6">
+                                <input type="email" id="edit_email" name="email" class="form-control" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">National ID</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_national_id" name="national_id" class="form-control" placeholder="National ID">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Passport Number</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_passport_number" name="passport_number" class="form-control" placeholder="Passport Number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Career</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_career" name="career" class="form-control" placeholder="Career">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Birthdate</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_birthdate" name="birthdate" class="form-control" placeholder="Birthdate">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Phone Number</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_phone_number" name="phone_number" class="form-control" placeholder="Phone Number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Address</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_address" name="address" class="form-control" placeholder="Birthdate">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Business Address</label>
+                            <div class="col-sm-6">
+                                <input type="text" id="edit_business_address" name="business_address" class="form-control" placeholder="Birthdate">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">OTP QR Code</label>
+                            <div class="col-sm-6">
+                                <img src="" id="edit_otp_qr_code">
+                            </div>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary btn-flat">Submit</button>
+
+                    </form>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!--  Modal content for create a user -->
+    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" style="display: none;">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h4 class="modal-title" id="myLargeModalLabel">Create User</h4>
+                </div>
+                <div class="modal-body">
+                    <form role="form" class="form-horizontal" action="<%=baseUrl%>/admin/user" method="post">
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Username</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="username" class="form-control" placeholder="Username">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Password</label>
+                            <div class="col-sm-6">
+                                <input type="password" name="password" class="form-control" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Confirm Password</label>
+                            <div class="col-sm-6">
+                                <input type="password" name="confirm_password" class="form-control" placeholder="Confirm Password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Firstname</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="firstname" class="form-control" placeholder="Firstname">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Lastname</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="lastname" class="form-control" placeholder="Lastname">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Email</label>
+                            <div class="col-sm-6">
+                                <input type="email" name="email" class="form-control" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">National ID</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="national_id" class="form-control" placeholder="National ID">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Passport Number</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="passport_number" class="form-control" placeholder="Passport Number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Career</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="career" class="form-control" placeholder="Career">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Birthdate</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="birthdate" class="form-control" placeholder="Birthdate">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Phone Number</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="phone_number" class="form-control" placeholder="Phone Number">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Address</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="address" class="form-control" placeholder="Address">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label" for="example-input-normal">Business Address</label>
+                            <div class="col-sm-6">
+                                <input type="text" name="business_address" class="form-control" placeholder="Business Address">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-flat">Submit</button>
+
+                    </form>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <!-- Main content -->
+    <section class="content">
+      <!-- /.row -->
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="box">
+            <div class="box-header">
+              <h3 class="box-title">Users</h3>
+
+              <div class="box-tools">
+                <div class="input-group input-group-sm" style="width: 150px;">
+                  <button type="button" class="pull-right btn btn-primary btn-sm btn-flat" data-toggle="modal" data-target=".bs-example-modal-lg">Create <span class="m-l-5"></span></button>
+
+                  
+                </div>
+              </div>
+            </div>
+            <!-- /.box-header -->
+            <div class="box-body table-responsive no-padding">
+              <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>User ID</th>
+                        <th>Username</th>
+                        <th>Firstname</th>
+                        <th>Lastname</th>
+                        <th>Title</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <% for(var i=0; i<users.length; i++) { %>
+                    <tr>
+                        <td scope="row"><%=users[i]._id%></td>
+                        <td><%=users[i].username%></td>
+                        <td><%=users[i].firstname%></td>
+                        <td><%=users[i].lastname%></td>
+                        <td><%=users[i].career%></td>
+                        <td><a href="#" onclick="editUser('<%=users[i]._id%>')"><i class="fa fa-edit"></i> Edit</a></td>
+                        <td><a href="#" onclick="deleteUser('<%=users[i]._id%>')"><i class="fa fa-trash"></i> Delete</a></td>
+                    </tr>
+                    <% } %>
+                </tbody>  
+              </table>
+            </div>
+            <!-- /.box-body -->
+          </div>
+          <!-- /.box -->
+        </div>
+      </div>
+    </section>
+    <!-- /.content -->
+
+<%- include ../layout/footer.ejs %>  

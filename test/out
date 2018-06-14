@@ -1,0 +1,1602 @@
+DC=etda,DC=or,DC=th
+OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Organization Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Recipient Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=View-Only Organization Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Public Folder Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=UM Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Help Desk,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Records Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Discovery Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Server Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Delegated Setup,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Hygiene Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Compliance Management,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Exchange Servers,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Exchange Trusted Subsystem,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Exchange Windows Permissions,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=ExchangeLegacyInterop,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+CN=Managed Availability Servers,OU=Microsoft Exchange Security Groups,DC=etda,DC=or,DC=th
+OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=DCSVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Users,DC=etda,DC=or,DC=th
+CN=Exchange Online-ApplicationAccount,CN=Users,DC=etda,DC=or,DC=th
+CN=D2SVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=DCSVITPDC02,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Computers,DC=etda,DC=or,DC=th
+CN=D2ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=D3ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c},CN=Users,DC=etda,DC=or,DC=th
+CN=System,DC=etda,DC=or,DC=th
+CN=RID Manager$,CN=System,DC=etda,DC=or,DC=th
+CN=LostAndFound,DC=etda,DC=or,DC=th
+CN=Infrastructure,DC=etda,DC=or,DC=th
+CN=ForeignSecurityPrincipals,DC=etda,DC=or,DC=th
+CN=Program Data,DC=etda,DC=or,DC=th
+CN=Microsoft,CN=Program Data,DC=etda,DC=or,DC=th
+CN=NTDS Quotas,DC=etda,DC=or,DC=th
+CN=Managed Service Accounts,DC=etda,DC=or,DC=th
+CN=WinsockServices,CN=System,DC=etda,DC=or,DC=th
+CN=RpcServices,CN=System,DC=etda,DC=or,DC=th
+CN=FileLinks,CN=System,DC=etda,DC=or,DC=th
+CN=VolumeTable,CN=FileLinks,CN=System,DC=etda,DC=or,DC=th
+CN=ObjectMoveTable,CN=FileLinks,CN=System,DC=etda,DC=or,DC=th
+CN=Default Domain Policy,CN=System,DC=etda,DC=or,DC=th
+CN=AppCategories,CN=Default Domain Policy,CN=System,DC=etda,DC=or,DC=th
+CN=Meetings,CN=System,DC=etda,DC=or,DC=th
+CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=User,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Machine,CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=User,CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Machine,CN={6AC1786C-016F-11D2-945F-00C04fB984F9},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=RAS and IAS Servers Access Check,CN=System,DC=etda,DC=or,DC=th
+CN=File Replication Service,CN=System,DC=etda,DC=or,DC=th
+CN=Dfs-Configuration,CN=System,DC=etda,DC=or,DC=th
+CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecPolicy{72385230-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecISAKMPPolicy{72385231-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{72385232-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{59319BE2-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{594272E2-071D-11D3-AD22-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{72385233-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecFilter{7238523A-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{59319BDF-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{7238523B-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecFilter{72385235-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecPolicy{72385236-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecISAKMPPolicy{72385237-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{59319C04-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{59319C01-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecPolicy{7238523C-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecISAKMPPolicy{7238523D-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{7238523E-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{59319BF3-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{594272FD-071D-11D3-AD22-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{7238523F-70FA-11D1-864C-14A300000000},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNegotiationPolicy{59319BF0-5EE3-11D2-ACE8-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ipsecNFA{6A1F5C6F-72B7-11D2-ACF0-0060B0ECCA17},CN=IP Security,CN=System,DC=etda,DC=or,DC=th
+CN=ComPartitions,CN=System,DC=etda,DC=or,DC=th
+CN=ComPartitionSets,CN=System,DC=etda,DC=or,DC=th
+CN=Builtin,DC=etda,DC=or,DC=th
+CN=Network Configuration Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Performance Monitor Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Performance Log Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Cryptographic Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=RDS Remote Access Servers,CN=Builtin,DC=etda,DC=or,DC=th
+CN=RDS Endpoint Servers,CN=Builtin,DC=etda,DC=or,DC=th
+CN=RDS Management Servers,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Hyper-V Administrators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Access Control Assistance Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Remote Management Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Domain Computers,CN=Users,DC=etda,DC=or,DC=th
+CN=Domain Users,CN=Users,DC=etda,DC=or,DC=th
+CN=Domain Guests,CN=Users,DC=etda,DC=or,DC=th
+CN=RAS and IAS Servers,CN=Users,DC=etda,DC=or,DC=th
+CN=Incoming Forest Trust Builders,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Terminal Server License Servers,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Allowed RODC Password Replication Group,CN=Users,DC=etda,DC=or,DC=th
+CN=Enterprise Read-only Domain Controllers,CN=Users,DC=etda,DC=or,DC=th
+CN=Cloneable Domain Controllers,CN=Users,DC=etda,DC=or,DC=th
+CN=BCKUPKEY_98984378-7413-4c57-b73e-95a890da333f Secret,CN=System,DC=etda,DC=or,DC=th
+CN=BCKUPKEY_P Secret,CN=System,DC=etda,DC=or,DC=th
+CN=BCKUPKEY_b293f2bd-6906-4dd7-ba2f-b2c82f126349 Secret,CN=System,DC=etda,DC=or,DC=th
+CN=BCKUPKEY_PREFERRED Secret,CN=System,DC=etda,DC=or,DC=th
+CN=AdminSDHolder,CN=System,DC=etda,DC=or,DC=th
+CN=Replicator,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Print Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Server Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Account Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Backup Operators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=krbtgt,CN=Users,DC=etda,DC=or,DC=th
+CN=Domain Controllers,CN=Users,DC=etda,DC=or,DC=th
+CN=Read-only Domain Controllers,CN=Users,DC=etda,DC=or,DC=th
+CN=Remote Desktop Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Guests,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Administrators,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Certificate Service DCOM Access,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Cert Publishers,CN=Users,DC=etda,DC=or,DC=th
+CN=Pre-Windows 2000 Compatible Access,CN=Builtin,DC=etda,DC=or,DC=th
+CN=IIS_IUSRS,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Group Policy Creator Owners,CN=Users,DC=etda,DC=or,DC=th
+CN=Domain Admins,CN=Users,DC=etda,DC=or,DC=th
+CN=Schema Admins,CN=Users,DC=etda,DC=or,DC=th
+CN=Windows Authorization Access Group,CN=Builtin,DC=etda,DC=or,DC=th
+CN=RID Set,CN=DCSVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Enterprise Admins,CN=Users,DC=etda,DC=or,DC=th
+CN=Administrator,CN=Users,DC=etda,DC=or,DC=th
+CN=Denied RODC Password Replication Group,CN=Users,DC=etda,DC=or,DC=th
+CN=RID Set,CN=D3ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Event Log Readers,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Distributed COM Users,CN=Builtin,DC=etda,DC=or,DC=th
+CN=Guest,CN=Users,DC=etda,DC=or,DC=th
+CN=Protected Users,CN=Users,DC=etda,DC=or,DC=th
+CN=Server,CN=System,DC=etda,DC=or,DC=th
+CN=RID Set,CN=DCSVITPDC02,OU=Domain Controllers,DC=etda,DC=or,DC=th
+OU=Main,DC=etda,DC=or,DC=th
+OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=infotechinfo,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=S-1-5-11,CN=ForeignSecurityPrincipals,DC=etda,DC=or,DC=th
+CN=S-1-5-4,CN=ForeignSecurityPrincipals,DC=etda,DC=or,DC=th
+CN=krbtgt_4223,CN=Users,DC=etda,DC=or,DC=th
+CN=S-1-5-17,CN=ForeignSecurityPrincipals,DC=etda,DC=or,DC=th
+CN=Suthep Tongdaeng,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=S-1-5-9,CN=ForeignSecurityPrincipals,DC=etda,DC=or,DC=th
+CN=infotechad,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WMIPolicy,CN=System,DC=etda,DC=or,DC=th
+CN=PolicyTemplate,CN=WMIPolicy,CN=System,DC=etda,DC=or,DC=th
+CN=SOM,CN=WMIPolicy,CN=System,DC=etda,DC=or,DC=th
+CN=PolicyType,CN=WMIPolicy,CN=System,DC=etda,DC=or,DC=th
+CN=WMIGPO,CN=WMIPolicy,CN=System,DC=etda,DC=or,DC=th
+CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=ab402345-d3c3-455d-9ff7-40268a1099b6,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=bab5f54d-06c8-48de-9b87-d78b796564e4,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=f3dd09dd-25e8-4f9c-85df-12d6d2f2f2f5,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=2416c60a-fe15-4d7a-a61e-dffd5df864d3,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=7868d4c8-ac41-4e05-b401-776280e8e9f1,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=860c36ed-5241-4c62-a18b-cf6ff9994173,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=0e660ea3-8a5e-4495-9ad7-ca1bd4638f9e,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=a86fe12a-0f62-4e2a-b271-d27f601f8182,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=d85c0bfd-094f-4cad-a2b5-82ac9268475d,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6ada9ff7-c9df-45c1-908e-9fef2fab008a,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=10b3ad2a-6883-4fa7-90fc-6377cbdc1b26,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=98de1d3e-6611-443b-8b4e-f4337f1ded0b,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=f607fd87-80cf-45e2-890b-6cf97ec0e284,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=9cac1f66-2167-47ad-a472-2a13251310e4,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6ff880d6-11e7-4ed1-a20f-aac45da48650,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=446f24ea-cfd5-4c52-8346-96e170bcb912,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=51cba88b-99cf-4e16-bef2-c427b38d0767,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=a3dac986-80e7-4e59-a059-54cb1ab43cb9,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=293f0798-ea5c-4455-9f5d-45f33a30703b,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=5c82b233-75fc-41b3-ac71-c69592e6bf15,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=7ffef925-405b-440a-8d58-35e8cd6e98c3,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=4dfbb973-8a62-4310-a90c-776e00f83222,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=8437C3D8-7689-4200-BF38-79E4AC33DFA0,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=7cfb016c-4f87-4406-8166-bd9df943947f,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=f7ed4553-d82b-49ef-a839-2f38a36bb069,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=8ca38317-13a4-4bd4-806f-ebed6acb5d0c,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=3c784009-1f57-4e2a-9b04-6915c9e71961,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5678-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5679-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567a-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567b-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567c-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567d-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567e-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd567f-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5680-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5681-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5682-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5683-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5684-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5685-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5686-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5687-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5688-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd5689-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd568a-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd568b-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd568c-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=6bcd568d-8314-11d6-977b-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=3051c66f-b332-4a73-9a20-2d6a7d6e6a1c,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=3e4f4182-ac5d-4378-b760-0eab2de593e2,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=c4f17608-e611-11d6-9793-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=13d15cf0-e6c8-11d6-9793-00c04f613221,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=8ddf6913-1c7b-4c59-a5af-b9ca3b3d2c4c,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=dda1d01d-4bd7-4c49-a184-46f9241b560e,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=a1789bfb-e0a2-4739-8cc0-e77d892d080a,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=61b34cb0-55ee-4be9-b595-97810b92b017,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=57428d75-bef7-43e1-938b-2e749f5a8d56,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=ebad865a-d649-416f-9922-456b53bbb5b8,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=0b7fb422-3609-4587-8c2e-94b10f67d1bf,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=2951353e-d102-4ea5-906c-54247eeec741,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=71482d49-8870-4cb3-a438-b6fc9ec35d70,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=aed72870-bf16-4788-8ac7-22299c8207f1,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=f58300d1-b71a-4DB6-88a1-a8b9538beaca,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=231fb90b-c92a-40c9-9379-bacfc313a3e3,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=4aaabc3a-c416-4b9c-a6bb-4b453ab1c1f0,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=9738c400-7795-4d6e-b19d-c16cd6486166,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=de10d491-909f-4fb0-9abb-4b7865c0fe80,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=b96ed344-545a-4172-aa0c-68118202f125,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=4c93ad42-178a-4275-8600-16811d28f3aa,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=c88227bc-fcca-4b58-8d8a-cd3d64528a02,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=5e1574f6-55df-493e-a671-aaeffca6a100,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=d262aae8-41f7-48ed-9f35-56bbb677573d,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=82112ba0-7e4c-4a44-89d9-d46c9612bf91,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=c3c927a6-cc1d-47c0-966b-be8f9b63d991,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=54afcfb9-637a-4251-9f47-4d50e7021211,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=f4728883-84dd-483c-9897-274f2ebcf11e,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=ff4f9d27-7157-4cb0-80a9-5d6f2b14c8ff,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=Password Settings Container,CN=System,DC=etda,DC=or,DC=th
+CN=PSPs,CN=System,DC=etda,DC=or,DC=th
+CN=TPM Devices,DC=etda,DC=or,DC=th
+CN=WinRMRemoteWMIUsers__,CN=Users,DC=etda,DC=or,DC=th
+CN=6E157EDF-4E72-4052-A82A-EC3F91021A22,CN=Operations,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=DnsAdmins,CN=Users,DC=etda,DC=or,DC=th
+CN=DnsUpdateProxy,CN=Users,DC=etda,DC=or,DC=th
+CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=@,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=a.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=b.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=c.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=d.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=e.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=f.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=g.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=h.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+DC=i.root-servers.net,DC=RootDNSServers,CN=MicrosoftDNS,CN=System,DC=etda,DC=or,DC=th
+CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=Content,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=SYSVOL Share,CN=Content,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=DFSR-LocalSettings,CN=DCSVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DCSVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DCSVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=ETDA-IT-I05,CN=Computers,DC=etda,DC=or,DC=th
+CN={8a04ffc7-afe1-4423-acdb-70618cfa7cf2},CN=ETDA-IT-I05,CN=Computers,DC=etda,DC=or,DC=th
+CN=DFSR-LocalSettings,CN=DCSVITPDC02,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DCSVITPDC02,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=DCSVITPDC02,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox643e22125e0a4a75823bd6cf80d42367,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox643e22125e0a4a75823bd6cf80d42367,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailbox643e22125e0a4a75823bd6cf80d42367,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailbox643e22125e0a4a75823bd6cf80d42367,CN=Users,DC=etda,DC=or,DC=th
+OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§validate,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1435636038,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=EAS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Nattapong Mongkolkul,OU=EAS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Nattapong Mongkolkul,OU=EAS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN8000§SEC1A5364C1B2DBD,CN=ExchangeActiveSyncDevices,CN=Nattapong Mongkolkul,OU=EAS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailbox8ddaf84b241f4b2e9301d13c9161556c,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailboxfb7249c4a67f40268cf6c511e2ba2cbd,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId121,CN=ExchangeActiveSyncDevices,CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxf4eb0e96a96f4cf7be5ef9592e839943,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId140,CN=ExchangeActiveSyncDevices,CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailbox930339d712574ba79d45c2eb46627205,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailbox50918cde6c9d4db9b7827492379302bf,CN=Users,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId120,CN=ExchangeActiveSyncDevices,CN=HealthMailbox3a1d754990d9409dafb886c9a50b229a,CN=Users,DC=etda,DC=or,DC=th
+OU=Local Distribution List,DC=etda,DC=or,DC=th
+OU=OED,OU=Main,DC=etda,DC=or,DC=th
+OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Kanyanat Preamsang,OU=EDS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kanyanat Preamsang,OU=EDS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=Global Distribution List,DC=etda,DC=or,DC=th
+OU=Global Contact,DC=etda,DC=or,DC=th
+OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=SES,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Phanwadee Kowintasate,OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Phanwadee Kowintasate,OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN={94dbe03e-61fd-4a21-ae17-b31c3046ea1c},CN=ETDA-IT-I05,CN=Computers,DC=etda,DC=or,DC=th
+OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDKVKX03MF19M,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39K9H79DTWD,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF2PJW5GMDTWD,CN=ExchangeActiveSyncDevices,CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1356973201662,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Jitsinee Thongjumnong,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jitsinee Thongjumnong,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39LVYPYFRC6,CN=ExchangeActiveSyncDevices,CN=Jitsinee Thongjumnong,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1359306002781,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00103,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00064,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00024,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00013,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00030,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00033,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00032,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00134,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00108,CN=Computers,DC=etda,DC=or,DC=th
+CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Sanchai Tinothai,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sanchai Tinothai,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§Appl860156503NQ,CN=ExchangeActiveSyncDevices,CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Rattanakorn Chawang,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Rattanakorn Chawang,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=OIA,OU=Main,DC=etda,DC=or,DC=th
+OU=OAS,OU=OIA,OU=Main,DC=etda,DC=or,DC=th
+CN=Parinya Inkhong,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Parinya Inkhong,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=CCS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Krit Khaouppatham,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Krit Khaouppatham,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=TOS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§Appl79944KPX3NP,CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Natthaphat Rojanasupamit,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Natthaphat Rojanasupamit,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCDesire600dualsim§HTC635c786ffeb4b9b99a66283c327f8,CN=ExchangeActiveSyncDevices,CN=Natthaphat Rojanasupamit,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Nattanai Roudreiw,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Nattanai Roudreiw,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=DCDZITPRP01,CN=Computers,DC=etda,DC=or,DC=th
+OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Khemiga Sakulphat,OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Khemiga Sakulphat,OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC128248ADF8E61,CN=ExchangeActiveSyncDevices,CN=Khemiga Sakulphat,OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Siriwan Sanwang,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Siriwan Sanwang,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7100§SEC1B8B323B3163D,CN=ExchangeActiveSyncDevices,CN=Siriwan Sanwang,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=Pennapa Hoyraya,OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pennapa Hoyraya,OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Oranit Mitprachachon,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Oranit Mitprachachon,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTI8552B§SEC1412B4FAEB5C6,CN=ExchangeActiveSyncDevices,CN=Oranit Mitprachachon,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Boonsri Kullachant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Boonsri Kullachant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Panchaphon Thipphiriyaphong,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Panchaphon Thipphiriyaphong,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Chaloemchai Bowornun,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chaloemchai Bowornun,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXMH2TBFLMK,CN=ExchangeActiveSyncDevices,CN=Chaloemchai Bowornun,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+OU=FPS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Kanokwan Chai-aroon,OU=FPS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kanokwan Chai-aroon,OU=FPS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=PC00028,CN=Computers,DC=etda,DC=or,DC=th
+CN=Jitti Kunphruk,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jitti Kunphruk,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Nattapong Worapivut,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Nattapong Worapivut,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Sopittha Kaveevorasart,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sopittha Kaveevorasart,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+OU=ABS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Urachada Ketprom,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Urachada Ketprom,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+OU=DIS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Tanut Ohmpornnuwat,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Tanut Ohmpornnuwat,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00078,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00072,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00009,CN=Computers,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXM415ZFLMP,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Napadol Utsanaboonsiri,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Napadol Utsanaboonsiri,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCOne§HTC55b59b67923ac7052d67c2bce3ca1,CN=ExchangeActiveSyncDevices,CN=Jitti Kunphruk,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMRJPL2TF185,CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NBTESTAPP,CN=Computers,DC=etda,DC=or,DC=th
+CN=Pornprapat Butprasurt,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pornprapat Butprasurt,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Soranun Jiwasurat,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Soranun Jiwasurat,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§Appl7R050L73A4S,CN=ExchangeActiveSyncDevices,CN=Kanyanat Preamsang,OU=EDS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00026,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00032,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00007,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00003,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00024,CN=Computers,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7100§SEC1847D29E129B5,CN=ExchangeActiveSyncDevices,CN=Napadol Utsanaboonsiri,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Kancharat Butprasurt,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kancharat Butprasurt,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN8000§SEC1CF3561FD650B,CN=ExchangeActiveSyncDevices,CN=Kancharat Butprasurt,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=PC00025,CN=Computers,DC=etda,DC=or,DC=th
+CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7100§SEC1C6CFEA5AC2B0,CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Ploy Charoensom,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Ploy Charoensom,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=Nipattra Piyabunditkul,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Nipattra Piyabunditkul,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7000§SAMSUNG1178601715,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00038,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00017,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00030,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00024,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00023,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00025,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00014,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00037,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00029,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00004,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00031,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00035,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00015,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00034,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00006,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00033,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00012,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00001,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00040,CN=Computers,DC=etda,DC=or,DC=th
+OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=DFSR-LocalSettings,CN=D2SVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D2SVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D2SVITPDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+OU=KMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+OU=HRS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Kannika Pataravisitsan,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kannika Pataravisitsan,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC13C44BB1BDFA8,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Thitikorn Trakoonsirisak,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Thitikorn Trakoonsirisak,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC37LT2YVFRC4,CN=ExchangeActiveSyncDevices,CN=Thitikorn Trakoonsirisak,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Pornprom Prapakittikul,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pornprom Prapakittikul,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC37GX0K9DTD2,CN=ExchangeActiveSyncDevices,CN=Pornprom Prapakittikul,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Jiraporn Tangpoolcharoen,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jiraporn Tangpoolcharoen,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTI9200§SEC132B750744B09,CN=ExchangeActiveSyncDevices,CN=Jiraporn Tangpoolcharoen,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXM83K9FLMM,CN=ExchangeActiveSyncDevices,CN=Pennapa Hoyraya,OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC15B5BE1813172,CN=ExchangeActiveSyncDevices,CN=Kanyanat Preamsang,OU=EDS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices\0ACNF:2f36ff94-dce1-4783-b0c2-c39d5578504c,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§OMN97JANH13073UJOPQ4B4NUAS,CN=ExchangeActiveSyncDevices\0ACNF:2f36ff94-dce1-4783-b0c2-c39d5578504c,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§OMN97JANH13073UJOPQ4B4NUAS,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00018,CN=Computers,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC18B27873F9902,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=WIN-0G19M6FVLBB,CN=Computers,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39GT3RKDTC0,CN=ExchangeActiveSyncDevices,CN=Tanut Ohmpornnuwat,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF17JW3CYF39C,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Rojana Lamlert,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Rojana Lamlert,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39H8XZWDTC0,CN=ExchangeActiveSyncDevices,CN=Ploy Charoensom,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF17JRHFCDTWH,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Siratchaya Phayakkasem,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Siratchaya Phayakkasem,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7100§SEC14B23E5AD59A0,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTS7270§SEC14895BA5A3DDD,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§QJFE5NM3FT4H16QVSR6M2ED0N4,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§1U5TD8A76T4Q30UF4MQT0K4MLG,CN=ExchangeActiveSyncDevices,CN=Ploy Charoensom,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=DX650§android1393122988775,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ASUSASUST00I§ASUSc226221824,CN=ExchangeActiveSyncDevices,CN=Kancharat Butprasurt,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Pradrawee Songprayad,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pradrawee Songprayad,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices\0ACNF:b9cf493f-7256-4ce0-8455-1ced9e388782,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§BHO6QLNMT13D927JS8U5783KRS,CN=ExchangeActiveSyncDevices\0ACNF:b9cf493f-7256-4ce0-8455-1ced9e388782,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§BHO6QLNMT13D927JS8U5783KRS,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00080,CN=Computers,DC=etda,DC=or,DC=th
+CN=Outlook§7072BD70A303CBAF,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Pawaris Jomsathan,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pawaris Jomsathan,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§DB86EA47C5CFDE3F,CN=ExchangeActiveSyncDevices,CN=Pawaris Jomsathan,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§75E52170900EE19B,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=WP8§307F16FA59ED6215F5632DED33B02A4B,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§92325234DB83C018,CN=ExchangeActiveSyncDevices,CN=Jitsinee Thongjumnong,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN5100§SEC16CED13869705,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Parinya Suwanchinkul,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Parinya Suwanchinkul,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ICTlawcenter,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=ICTlawcenter,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTI8552B§SEC1BBB68B6974AB,CN=ExchangeActiveSyncDevices,CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Jirawan Boonperm,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jirawan Boonperm,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39KFCVMDTWD,CN=ExchangeActiveSyncDevices,CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§TJ3L89NT1L4B94L44J7U9T509S,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Paises Charoenpanish,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Paises Charoenpanish,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1363885202910,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=DX650§android1299193610762,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Wanida Srithaworn,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wanida Srithaworn,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=WP8§9F880A3957D2886E53A7C2F6DE0F98C0,CN=ExchangeActiveSyncDevices,CN=Kannika Pataravisitsan,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Thitiporn Bunyeod,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Thitiporn Bunyeod,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§N443UGPUO92IT0F8RLI1QIREJ4,CN=ExchangeActiveSyncDevices,CN=Thitiporn Bunyeod,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXFDGH0DFJ2,CN=ExchangeActiveSyncDevices,CN=Nattanai Roudreiw,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMQJN45WF18W,CN=ExchangeActiveSyncDevices,CN=Jitti Kunphruk,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplDQGLN0H5DTWD,CN=ExchangeActiveSyncDevices,CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§3AA58CE9CCD22D5C,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§HR2NQSIULD2BF96Q4UF6FUO6J4,CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMT116NU§SEC1FAB722109320,CN=ExchangeActiveSyncDevices,CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC38LPAW8FRC9,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00187,CN=Computers,DC=etda,DC=or,DC=th
+CN=Outlook§2A6FA042F427BB19,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN7100§SEC1CE00380ECDE4,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Pavittra Lerkngam,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pavittra Lerkngam,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMPK2549F191,CN=ExchangeActiveSyncDevices,CN=Jirawan Boonperm,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC1D64080D959B7,CN=ExchangeActiveSyncDevices,CN=Panchaphon Thipphiriyaphong,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=SonyC6833§androidc1508030517,CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC1CE7718D13A1B,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1356998403117,CN=ExchangeActiveSyncDevices,CN=Kanokwan Chai-aroon,OU=FPS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§BA6D57BF6CBC6A25B7FE3425FE9E5A8A,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC1130C27A09A61,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§B6924405F53B71E5,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=LGPhone§LGMCHJoWiBni1uly,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMP355§SEC1493E899B325A,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Suthasinee Koakaew,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Suthasinee Koakaew,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§F6BC0BB41D3D552E,CN=ExchangeActiveSyncDevices,CN=Suthasinee Koakaew,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC36LKLL4FRC5,CN=ExchangeActiveSyncDevices,CN=Soranun Jiwasurat,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF2PJQZMJDTWF,CN=ExchangeActiveSyncDevices,CN=Krit Khaouppatham,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+OU=SharePoint,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTI8552B§null,CN=ExchangeActiveSyncDevices,CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§3A8E80EDDAE05A9D9D40E6A9ECBE98B7,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+OU=SQL,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=sqladmin,OU=SQL,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=SharePoint Service,OU=SharePoint,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCOne§HTC5b11342e11b5ca78e62f7dae10a56,CN=ExchangeActiveSyncDevices,CN=Nattapong Worapivut,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG530F§SEC130B97BCE9311,CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§F331144F642A8BB3,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Waiphot Phaungmaiming,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Waiphot Phaungmaiming,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§1A9203CBC408B005,CN=ExchangeActiveSyncDevices,CN=Waiphot Phaungmaiming,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§8182085B4BBA4AE2,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§PCFBFBAJQ16R3E0093PUJ8IQU0,CN=ExchangeActiveSyncDevices,CN=Khemiga Sakulphat,OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39H82EPDTD7,CN=ExchangeActiveSyncDevices,CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§94EF8326838295619EAB3BD2A4F3995C,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§TMI59F86V57C13NGUQ6IU9RTCG,CN=ExchangeActiveSyncDevices,CN=Pennapa Hoyraya,OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§TMI59F86V57C13NGUQ6IU9RTCG,CN=ExchangeActiveSyncDevices,CN=ICTlawcenter,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC14F78A3436EFE,CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC1C0521C392E7A,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1365267602539,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1132947207,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ASUSASUST00J§ASUSc1944874478,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39LNJBLFRCF,CN=ExchangeActiveSyncDevices,CN=Nattapong Mongkolkul,OU=EAS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§F2AB29EA0B030B8F,CN=ExchangeActiveSyncDevices,CN=Jitsinee Thongjumnong,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMPK30ACF192,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00233,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00235,CN=Computers,DC=etda,DC=or,DC=th
+CN=Wannisa Anurat,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00230,CN=Computers,DC=etda,DC=or,DC=th
+CN=Phichayaluk Kamthongsuk,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=Media Creative,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SystemMailbox{1f05a927-f78b-4579-95bb-6f2c2647e9d7},CN=Users,DC=etda,DC=or,DC=th
+CN=NB00099,CN=Computers,DC=etda,DC=or,DC=th
+CN=D2SVITPPR01,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETDA-IT-I03,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=Jakkapong Tanakrekkavin,OU=HRS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00008,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00074,CN=Computers,DC=etda,DC=or,DC=th
+OU=DTS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Suchaya Ananwattanaporn,OU=DIS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00073,CN=Computers,DC=etda,DC=or,DC=th
+CN=AXReports,OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00187,CN=Computers,DC=etda,DC=or,DC=th
+CN=FederatedEmail.4c1f4d8b-8179-4148-93bf-00a95fa1e042,CN=Users,DC=etda,DC=or,DC=th
+CN=Nitinud Sopharuksa,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Yuttana Chanawat,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00124,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00097,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00216,CN=Computers,DC=etda,DC=or,DC=th
+CN=Chatchai Chan-In,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00100,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of Executive Director,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00214,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00091,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00022,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETDA PF Mailbox,OU=Main,DC=etda,DC=or,DC=th
+CN=Chonnikarn Kongsuwan,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=BPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Suphanvipha Netswang,OU=BPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00057,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00108,CN=Computers,DC=etda,DC=or,DC=th
+CN=Exchange Install Domain Servers,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB-00061,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00232,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00054,CN=Computers,DC=etda,DC=or,DC=th
+CN=Wipawadee Auyporn,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Weera Kasetsin,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00083,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00121,CN=Computers,DC=etda,DC=or,DC=th
+CN=Boonnao Thipmanee,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00107,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00026,CN=Computers,DC=etda,DC=or,DC=th
+CN=WIN-731B4VBLRFD,CN=Computers,DC=etda,DC=or,DC=th
+CN=SystemMailbox{50918cde-6c9d-4db9-b782-7492379302bf},CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00093,CN=Computers,DC=etda,DC=or,DC=th
+CN=SystemMailbox{e0dc1c29-89c3-4034-b678-e6c29d823ed9},CN=Users,DC=etda,DC=or,DC=th
+CN=SystemMailbox{930339d7-1257-4ba7-9d45-c2eb46627205},CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=Thawatchai Pringprom,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00084,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00143,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPAP02,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00067,CN=Computers,DC=etda,DC=or,DC=th
+CN=Manita Boonyued,OU=HRS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Event,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00082,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00243,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00120,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00062,CN=Computers,DC=etda,DC=or,DC=th
+CN=Account.Registration,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=MB00003,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00125,CN=Computers,DC=etda,DC=or,DC=th
+CN=Worawoot Wasinyothin,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Thosaporn Kompat,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00117,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00118,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00081,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00085,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00063,CN=Computers,DC=etda,DC=or,DC=th
+CN=Khwanchanok Xumsai na ayudhaya,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00232,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00059,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00129,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of Research and Development,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00058,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00102,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00053,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00155,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of Security,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00152,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of e-Commerce,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=SystemMailbox{3a1d7549-90d9-409d-afb8-86c9a50b229a},CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=OID_Admin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Pacharamon Khamthongsuk,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00207,CN=Computers,DC=etda,DC=or,DC=th
+CN=Suchayapim Siriwat,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Sec_Infotech,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00041,CN=Computers,DC=etda,DC=or,DC=th
+CN=CMS-SSO-CWG,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00098,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00018,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00080,CN=Computers,DC=etda,DC=or,DC=th
+CN=MB00004,CN=Computers,DC=etda,DC=or,DC=th
+CN=Tossapon Rungrojkijjakarn,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Mid Executive,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=PR Team,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00109,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00225,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00117,CN=Computers,DC=etda,DC=or,DC=th
+CN=Executive Board of ETDA,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00061,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00065,CN=Computers,DC=etda,DC=or,DC=th
+CN=Nuntapong Boonthanom,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=ITS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00042,CN=Computers,DC=etda,DC=or,DC=th
+CN=Migration.8f3e7716-2011-43e4-96b1-aba62d229136,CN=Users,DC=etda,DC=or,DC=th
+CN=NB00147,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00076,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00095,CN=Computers,DC=etda,DC=or,DC=th
+CN=Smilemark,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Tatat Wuttipongvorakij,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=human_resources,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00115,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00052,CN=Computers,DC=etda,DC=or,DC=th
+CN=SPRT Info,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Pisan Jarrassophon,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00047,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00105,CN=Computers,DC=etda,DC=or,DC=th
+CN=Pichit Jingsura,OU=SES,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Manager of ETDA,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Wandee Srimonthok,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00150,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPDC02,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=TOSHIBA-L830,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00222,CN=Computers,DC=etda,DC=or,DC=th
+CN=eCommerce Survey,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00090,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00122,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00089,CN=Computers,DC=etda,DC=or,DC=th
+CN=D2SVITPDC01,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=NB00002,CN=Computers,DC=etda,DC=or,DC=th
+CN=eStandard.Center,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Top Executive of ETDA,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Thai GAC,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Pussadee Choowit,OU=OAS,OU=OIA,OU=Main,DC=etda,DC=or,DC=th
+CN=NCIS Helpdesk,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Jakawal Ongthongkum,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Thussawat Thussanatrailuk,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+OU=BCS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=ASEAN e-Authentication Workshop,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00069,CN=Computers,DC=etda,DC=or,DC=th
+CN=Martijn van der Heide,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00184,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00071,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00086,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00078,CN=Computers,DC=etda,DC=or,DC=th
+CN=Usanisa Khun-ekanan,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00050,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00021,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00209,CN=Computers,DC=etda,DC=or,DC=th
+CN=Siripong Vongs-sritragran,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00046,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00070,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00017,CN=Computers,DC=etda,DC=or,DC=th
+CN=Rungkiat Pirunkittikul,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00060,CN=Computers,DC=etda,DC=or,DC=th
+CN=OID_RA,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00018,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of Information and Communication Technlogy Standard,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00092,CN=Computers,DC=etda,DC=or,DC=th
+CN=Lalita Jaimun,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Webmaster,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00106,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPAP06,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETDAfax,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Jirayut Kunlaphuk,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Office of Strategic,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00165,CN=Computers,DC=etda,DC=or,DC=th
+CN=Wipaporn Butmek,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Chotika Sinno,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00185,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00-103,CN=Computers,DC=etda,DC=or,DC=th
+CN=NRCA,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Office of Legal Affairs,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Office of Information Technology Infrastructure,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Hataichanok Puttaraksa,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00039,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00249,CN=Computers,DC=etda,DC=or,DC=th
+CN=threat_monitor,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00223,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00123,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of information Technology,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00146,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00206,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00128,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00175,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00104,CN=Computers,DC=etda,DC=or,DC=th
+CN=Thusanan Jakklang,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00116,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00177,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00154,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00151,CN=Computers,DC=etda,DC=or,DC=th
+CN=DiscoverySearchMailbox {D919BA05-46A6-415f-80AD-7E09334BB852},CN=Users,DC=etda,DC=or,DC=th
+CN=Thaiemarket,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Office of General Administration,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00237,CN=Computers,DC=etda,DC=or,DC=th
+CN=Naruemol Nantarattanasakul,OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ETDA-INET Working Group,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=Jatturong Boonthaisong,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00133,CN=Computers,DC=etda,DC=or,DC=th
+CN=Online Complaint Center,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Internet User Profile,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Sec_Adminsupport,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=A.Kittipong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00248,CN=Computers,DC=etda,DC=or,DC=th
+CN=PR,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=edicom2014,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00241,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00054,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00111,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00045,CN=Computers,DC=etda,DC=or,DC=th
+CN=Tawatchai Subboon,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=All ETDA,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00159,CN=Computers,DC=etda,DC=or,DC=th
+CN=Chutinthorn Angkamethakorn,OU=EPS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00127,CN=Computers,DC=etda,DC=or,DC=th
+CN=Office of Internal Audit,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Chada Washington,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00119,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00051,CN=Computers,DC=etda,DC=or,DC=th
+CN=Outlook§A726E5B8A12852B9,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTI9082§SEC14FF9F27E0589,CN=ExchangeActiveSyncDevices,CN=Boonsri Kullachant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC1E03F66D793D0,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§M384VAELC92B747VNVUO41UK4C,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§KLITVUPTKH6MBBGIBUMC319PI0,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Khwanchanok Xumsai na ayudhaya,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§CFA92192E6BF6803,CN=ExchangeActiveSyncDevices,CN=Khwanchanok Xumsai na ayudhaya,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§AE4EBBECC5B1E090212A6D397EE32229,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§498EFE2E5156D7EF,CN=ExchangeActiveSyncDevices,CN=Sanchai Tinothai,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WP8§A079D924C33CB4F4ADC53290D1E42FE9,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§0CE0BD336C2009ED4AABF27E39AE392E,CN=ExchangeActiveSyncDevices,CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1820646162,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§1957C89028C65DE6,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§37A3DD713E34547D,CN=ExchangeActiveSyncDevices,CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§2810DD13472BC0E4,CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§DO36I0IO812TV7QH1T9USG5MOS,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jatturong Boonthaisong,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§52BF88557A2D883A,CN=ExchangeActiveSyncDevices,CN=Jatturong Boonthaisong,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§RHG7DTB30L3VD10ACK6UBR28S8,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39GW7S5DTD0,CN=ExchangeActiveSyncDevices,CN=Phanwadee Kowintasate,OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC130DA38A89B16,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§E0218700338362D1,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§390VJ0V99D7D16PE49QCT7B54S,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Yuttana Chanawat,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§3292E8B9E51C7B1E,CN=ExchangeActiveSyncDevices,CN=Yuttana Chanawat,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Boonnao Thipmanee,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§7BE2FEBA74AA8492,CN=ExchangeActiveSyncDevices,CN=Boonnao Thipmanee,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1687668747,CN=ExchangeActiveSyncDevices,CN=Boonsri Kullachant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1847847866,CN=ExchangeActiveSyncDevices,CN=Phanwadee Kowintasate,OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Weera Kasetsin,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§6D35C0039AD70DF6,CN=ExchangeActiveSyncDevices,CN=Weera Kasetsin,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§B48BC8140F202A38,CN=ExchangeActiveSyncDevices,CN=Weera Kasetsin,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§Appl87132HF5A4S,CN=ExchangeActiveSyncDevices,CN=Nipattra Piyabunditkul,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§8181D1C6337A4F8E8D714C77E4DA0360,CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39L14JHDTWF,CN=ExchangeActiveSyncDevices,CN=Pavittra Lerkngam,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wandee Srimonthok,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSME700F§SEC1D2BB1E886344,CN=ExchangeActiveSyncDevices,CN=Oranit Mitprachachon,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pisan Jarrassophon,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39MH8VTFRC4,CN=ExchangeActiveSyncDevices,CN=Pisan Jarrassophon,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC175BA8E5F6C94,CN=ExchangeActiveSyncDevices,CN=Urachada Ketprom,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§DRU40OAFIT0AJ5UJLG1QPQTMV8,CN=ExchangeActiveSyncDevices,CN=Pavittra Lerkngam,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMQLP0KDF4YJ,CN=ExchangeActiveSyncDevices,CN=Sanchai Tinothai,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§A42C5A5ECDE649E4574096C4E393AFD1,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§93231C8BDA21EAFC,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Adisak Busaranun,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Adisak Busaranun,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN9005§SEC1619F7AC6CA78,CN=ExchangeActiveSyncDevices,CN=Adisak Busaranun,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1948489066,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§142A9E34B01FFF53,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WP8§81EB3182B2E516BA502BCABE22B59675,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1EED022746190,CN=ExchangeActiveSyncDevices,CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§8E264EB59B13FBAF,CN=ExchangeActiveSyncDevices,CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTN5100§SEC12B84CCA7C5EB,CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§SSOG7MLHSH00F42MAMRU3IR7SG,CN=ExchangeActiveSyncDevices,CN=Kittipong Lalitapornpong,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXM9ED4FCM5,CN=ExchangeActiveSyncDevices,CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Rungkiat Pirunkittikul,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+OU=K2,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=D3SVITPAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=msmq,CN=D3SVITPAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=EventBus,CN=msmq,CN=D3SVITPAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=EventBus Error,CN=msmq,CN=D3SVITPAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=TemporaryQueueV5EHXEB2BBFPETDPAT,CN=msmq,CN=D3SVITPAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=iPhone§c2b5ddafdbe54d19b437de492a4d7413,CN=ExchangeActiveSyncDevices,CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§095986469fe04c2fa6d0b2c5a2a4eb33,CN=ExchangeActiveSyncDevices,CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Surasak Sata,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Surasak Sata,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§A1A3BC3240E56561,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=DCSVITPCS01,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPMX01,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPMX02,CN=Computers,DC=etda,DC=or,DC=th
+CN=Thaiemarket.ETDA (gmail),OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§AD5C7D1EFF56BD7D,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§7F7BCA944C4E7FAE,CN=ExchangeActiveSyncDevices,CN=Khwanchanok Xumsai na ayudhaya,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG9250§SEC1FD8BD14CFAFD,CN=ExchangeActiveSyncDevices,CN=Natthaphat Rojanasupamit,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Suchayapim Siriwat,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMA800F§SEC1422BAF3CA3B5,CN=ExchangeActiveSyncDevices,CN=Suchayapim Siriwat,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Usanisa Khun-ekanan,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMJ700F§SEC14C2CC5044AF2,CN=ExchangeActiveSyncDevices,CN=Usanisa Khun-ekanan,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Santiwan Pajorn,OU=BPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Santiwan Pajorn,OU=BPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Lalita Jaimun,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§8C8A464AAADA4F43,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1701226494,CN=ExchangeActiveSyncDevices,CN=Kanokwan Chai-aroon,OU=FPS,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+OU=SharePoint_IT,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN900§SEC1551F123F1379,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Sorakit Assawakunlawanich,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sorakit Assawakunlawanich,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCOneM8§HTCb6589fc6abd41042706643,CN=ExchangeActiveSyncDevices,CN=Sorakit Assawakunlawanich,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG920F§SEC11B0E27F76EAF,CN=ExchangeActiveSyncDevices,CN=Thitikorn Trakoonsirisak,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Pimchanok Jekpoo,OU=ITS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pimchanok Jekpoo,OU=ITS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGGTP3100B§SEC125E5843A818B,CN=ExchangeActiveSyncDevices,CN=Nipattra Piyabunditkul,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1619F7AC6CA78,CN=ExchangeActiveSyncDevices,CN=Adisak Busaranun,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXJVB0WF19L,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCOneS§HTCe177e69744d76d6285b4fc71417b5,CN=ExchangeActiveSyncDevices,CN=Pornprapat Butprasurt,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG530F§SEC12D7341C336B7,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§E8A92CC35B9C9D16,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Pantipa Chandapradit,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pantipa Chandapradit,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§LH5HAAQ96H67T5KPO2OC332O50,CN=ExchangeActiveSyncDevices,CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMJ700F§SEC10D1CF8259529,CN=ExchangeActiveSyncDevices,CN=Usanisa Khun-ekanan,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailbox249d4cf505414dc982ec53825b32ac65,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox249d4cf505414dc982ec53825b32ac65,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox249d4cf505414dc982ec53825b32ac65,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox4ff19d6d87094a7ba7718707b561fb7c,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox4ff19d6d87094a7ba7718707b561fb7c,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox4ff19d6d87094a7ba7718707b561fb7c,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=Virat Sarithuratsiri,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Virat Sarithuratsiri,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Morragot Kulatumyotin,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Wanchai Vach-Shewadumrong,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Porntip Jirakityangkoon,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Hunsa Nawaraphan,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Pat Hosiri,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Songsak Danubumrungsart,OU=Global Contact,DC=etda,DC=or,DC=th
+OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+OU=IASS,OU=OIA,OU=Main,DC=etda,DC=or,DC=th
+CN=Siriphan Varnakovida,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Siriphan Varnakovida,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§MJL0ATRVE12I94SAM4MNDDTAAC,CN=ExchangeActiveSyncDevices,CN=Siriphan Varnakovida,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§EA80F8EF4EAAA25B,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§F5893EC17DAA47BC,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Thusanan Jakklang,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§11AB050DB026DE58EA0C02C234DCC48E,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§95B3D5CF77C9D94F,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§C87E74F75DF2CE5B,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXJTBKJF19L,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§60BE7DFE86351937,CN=ExchangeActiveSyncDevices,CN=Pornprapat Butprasurt,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§OHRLPTL2R51R5ERHV4VPQIQU20,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1D9A54B5D115B,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§EE7258FCE5331FF7,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1A69D2D3D840C,CN=ExchangeActiveSyncDevices,CN=Sanchai Tinothai,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1F7C99FAEC441,CN=ExchangeActiveSyncDevices,CN=Santiwan Pajorn,OU=BPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC190B12B431DAF,CN=ExchangeActiveSyncDevices,CN=Jiraporn Tangpoolcharoen,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1CCFA592AF9A1,CN=ExchangeActiveSyncDevices,CN=Phanwadee Kowintasate,OU=PSS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC19F9817706CC8,CN=ExchangeActiveSyncDevices,CN=Urachada Ketprom,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Suthep Tongdaeng,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Wachirapan Ponkacha,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wachirapan Ponkacha,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§5CD13DA590679E69A6FAE7D082C3D607,CN=ExchangeActiveSyncDevices,CN=Wachirapan Ponkacha,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ASUSASUST00J§ASUSc1944874478,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG925F§SEC16256A98C368D,CN=ExchangeActiveSyncDevices,CN=Panchaphon Thipphiriyaphong,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF17K6QQWDTWF,CN=ExchangeActiveSyncDevices,CN=Rungkiat Pirunkittikul,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§12896AF567B4CF30,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§LKJL11OPTD4HV8DU8ECBO4D3N0,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplF2LJL5TQF39C,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§GIHSV1HA296FR3TKP9UEIASG8S,CN=ExchangeActiveSyncDevices,CN=Lalita Jaimun,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Piset Chiyasak,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Piset Chiyasak,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices\0ACNF:abaffe1d-93fc-4ccd-af7f-676f6deb75d1,CN=Piset Chiyasak,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§2ARNNV4VTP4M98BDBJG5KGBRS0,CN=ExchangeActiveSyncDevices\0ACNF:abaffe1d-93fc-4ccd-af7f-676f6deb75d1,CN=Piset Chiyasak,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§2ARNNV4VTP4M98BDBJG5KGBRS0,CN=ExchangeActiveSyncDevices,CN=Piset Chiyasak,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§JKR9VDK5TT191096LU9U6UKEJ0,CN=ExchangeActiveSyncDevices,CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39K96PWDTWF,CN=ExchangeActiveSyncDevices,CN=Wanida Srithaworn,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=SharePoint Farm,OU=SharePoint,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1435275052600,CN=ExchangeActiveSyncDevices,CN=Rungkiat Pirunkittikul,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§379E8624B7036CA3,CN=ExchangeActiveSyncDevices,CN=Supit Sripak,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39LP7ZQFRCF,CN=ExchangeActiveSyncDevices,CN=Parinya Inkhong,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Kwanjaroen Pichwanitchakul,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Kwanjaroen Pichwanitchakul,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC39LQCLRFRC5,CN=ExchangeActiveSyncDevices,CN=Kwanjaroen Pichwanitchakul,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=MOWA§Android§146483650195021825426286815763,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§1474617C0F3089E3,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=MOWA§Android§14648605545907398810202490855,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC1D2D04714A179,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§A23662B148ADD7FE,CN=ExchangeActiveSyncDevices,CN=Weera Kasetsin,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§CROAK8JIVT5N906MM9VLSH90TO,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§S14MOLN9FD1JDEOMRVI65FNHGK,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC12547334A493A,CN=ExchangeActiveSyncDevices,CN=Peerasak Waraporn,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wipaporn Butmek,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§EL9N5H8KMD4ADEJL6LEO50G0ES,CN=ExchangeActiveSyncDevices,CN=Wipaporn Butmek,OU=GMS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC1FAB3AC326F72,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Chalong Amornratanayut,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chalong Amornratanayut,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§7DB292A3BC9481AD,CN=ExchangeActiveSyncDevices,CN=Chalong Amornratanayut,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Jakawal Ongthongkum,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§F44EA69C94DFED37,CN=ExchangeActiveSyncDevices,CN=Jakawal Ongthongkum,OU=DFS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=DCDVITDAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=Rungwit Jitsongsang,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Rungwit Jitsongsang,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Krisda Thongphet,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Krisda Thongphet,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§9ECCE5B8FF773393,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1420045201499,CN=ExchangeActiveSyncDevices,CN=Thusanan Jakklang,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§A8814C53818A5204,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG935F§SEC149B96D45650D,CN=ExchangeActiveSyncDevices,CN=Lalita Jaimun,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC1B592A58CDF83,CN=ExchangeActiveSyncDevices,CN=Pradrawee Songprayad,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC153B3C1764367,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc758230077,CN=ExchangeActiveSyncDevices,CN=Nattapong Worapivut,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG935F§SEC1FC7BD1E4EE11,CN=ExchangeActiveSyncDevices,CN=Chaichana Mitrpant,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=TharitS_ncb,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=Phongwat_ncb,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=NarinT_ncb,OU=Global Contact,DC=etda,DC=or,DC=th
+CN=HealthMailbox30b9c1fa68d9469c8d4dc38aa17bda43,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox30b9c1fa68d9469c8d4dc38aa17bda43,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox30b9c1fa68d9469c8d4dc38aa17bda43,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC17BF3ED13711D,CN=ExchangeActiveSyncDevices,CN=Pornthip Jirawanichakul,OU=IDS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§MKU1MDSEJ10S91FE72TBLARGKK,CN=ExchangeActiveSyncDevices,CN=Parinya Inkhong,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=HTCOneM8§HTCb6589fc6abde51d94a9ebf,CN=ExchangeActiveSyncDevices,CN=Sorakit Assawakunlawanich,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§O5HVUDMKP96R71FRABQCSFO7J0,CN=ExchangeActiveSyncDevices,CN=Pawaris Jomsathan,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMA800F§SEC1422BAF3CA3B5,CN=ExchangeActiveSyncDevices,CN=Noparat Panpinij,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§3RR4AF5UFT4RDCL5V3HL3MAE0S,CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Worawit Techasupakura,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Worawit Techasupakura,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMA910F§SEC17EBD52236D06,CN=ExchangeActiveSyncDevices,CN=Worawit Techasupakura,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§DE2A3DF9CB033B81CA17E6EB9AF9BBD5,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN920C§SEC19C8C5C34595E,CN=ExchangeActiveSyncDevices,CN=Surangkana Wayuparb,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§129ABD6EB0B0AFE3,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=MOWA§Android§14708194741636810523562516444,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1099015554,CN=ExchangeActiveSyncDevices,CN=Wanida Srithaworn,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=MOWA§Android§14713481457687628838632787325,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=MOWA§Android§147183900466714797996029876326,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§979A95F225A161F4A6305B9CDB6FBF4F,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1667697294,CN=ExchangeActiveSyncDevices,CN=Vorachat Kaveevorasart,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC38LPF2GFRC9,CN=ExchangeActiveSyncDevices,CN=Sopittha Kaveevorasart,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§71MM4RUAE92S99PA4HUU8VQ564,CN=ExchangeActiveSyncDevices,CN=Werachai Prayoonpruk,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§OH16DCNBB12NFCODJ094EFF90C,CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§8DE6AB56AA23FB347CC9399EB909064B,CN=ExchangeActiveSyncDevices,CN=Jitti Kunphruk,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDLXKD25AF19N,CN=ExchangeActiveSyncDevices,CN=Paises Charoenpanish,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1433723242187,CN=ExchangeActiveSyncDevices,CN=Chalong Amornratanayut,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG930F§SEC137D82595F129,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC1A32063C16AB3,CN=ExchangeActiveSyncDevices,CN=Parinya Suwanchinkul,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§VSQ3NT3AL10CN2F4B76I50SG1S,CN=ExchangeActiveSyncDevices,CN=Pornsom Suphavatthana,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailbox8edb5a853b364478952ebb635331ca03,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox8edb5a853b364478952ebb635331ca03,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox8edb5a853b364478952ebb635331ca03,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=iPhone§QJFE5NM3FT4H16QVSR6M2ED0N4,CN=ExchangeActiveSyncDevices,CN=Rojana Lamlert,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00256,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00251,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB0228,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00132,CN=Computers,DC=etda,DC=or,DC=th
+CN=Chiraporn Tantiwong,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=InfotechAdmin,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00263,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00318,CN=Computers,DC=etda,DC=or,DC=th
+CN=Trade Facilitation,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00268,CN=Computers,DC=etda,DC=or,DC=th
+CN=Trade Facilitation - Sugar,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=AX Admin,OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+OU=PMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Sujin Poonboon,OU=MES,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00139,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00278,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00270,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00161,CN=Computers,DC=etda,DC=or,DC=th
+CN=Worayut Kanking,OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00008,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00234,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailbox8ea2a9f9af7d4d798c2717084fa517af,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=MB00016,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00009-PC,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00242,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00144,CN=Computers,DC=etda,DC=or,DC=th
+CN=Jariya Sukthanomwong,OU=DTS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00262,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailbox1fe05e60191944ca8710f2817bea67ca,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=MB0003,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailbox1deb90c530e942a98db3aa73e7994932,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00019,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00309,CN=Computers,DC=etda,DC=or,DC=th
+CN=Natham Thammanichanon,OU=DTS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00171,CN=Computers,DC=etda,DC=or,DC=th
+CN=Araya Sawasdichai,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailboxf01261551ae44e10a9412aa03a0d80dc,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00168,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00252,CN=Computers,DC=etda,DC=or,DC=th
+CN=teamevent,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00306,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00260,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00131,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00190,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00110,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00010,CN=Computers,DC=etda,DC=or,DC=th
+CN=eCommerce,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Pragasit Charoenraksa,OU=DTS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00192,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00193,CN=Computers,DC=etda,DC=or,DC=th
+CN=Anydots .,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Information Systems Development Section,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00257,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00238,CN=Computers,DC=etda,DC=or,DC=th
+CN=Enterprise Architecture Section,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Tempexchadmin,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00261,CN=Computers,DC=etda,DC=or,DC=th
+CN=PCSOC01,CN=Computers,DC=etda,DC=or,DC=th
+CN=Press Forum,OU=Global Distribution List,DC=etda,DC=or,DC=th
+OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Nithi Amornpipithkul,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00086,CN=Computers,DC=etda,DC=or,DC=th
+CN=Supachitra Laohawattanapinyo,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00255,CN=Computers,DC=etda,DC=or,DC=th
+CN=Nantawan Nasit,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=ISO27001QAM,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=ETDA Recommendation,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00028,CN=Computers,DC=etda,DC=or,DC=th
+CN=Lalita Hengsor,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=brandbuilding,OU=OSP,OU=Main,DC=etda,DC=or,DC=th
+CN=Adchara Jirasathienporn,OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00259,CN=Computers,DC=etda,DC=or,DC=th
+CN=Information Services Section,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=HealthMailbox497dbba6a9144a5fbc6a0b3746d40983,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox57c2fe55b66a49ce8ac2a03998d6d042,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=Office of Organization Development,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=3Years,OU=BSS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Network System Section,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB-00106,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00271,CN=Computers,DC=etda,DC=or,DC=th
+CN=Supanun Techangamwong,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=Tanachai Sangpaitoon,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00228,CN=Computers,DC=etda,DC=or,DC=th
+CN=Nutjaree Naktubtim,OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=ISO9001 Working Team,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB-00228,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00148,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPAP09,CN=Computers,DC=etda,DC=or,DC=th
+CN=Internet Governance,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=Reception1 .,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailboxda4ea26b92974d8d8b025f6629180163,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=Jetsada Changsisang,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00267,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailbox8b292997d193407e9d4b78ea37b7032e,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00304,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00202,CN=Computers,DC=etda,DC=or,DC=th
+CN=Somprasong Honchaiya,OU=LRS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Reception2 .,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Internal Auditor ISO-9001,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00265,CN=Computers,DC=etda,DC=or,DC=th
+CN=eService,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00315,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00186,CN=Computers,DC=etda,DC=or,DC=th
+CN=MB00014,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00305,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00322,CN=Computers,DC=etda,DC=or,DC=th
+CN=Vilawan Vanadurongva,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00321,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00126,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00238,CN=Computers,DC=etda,DC=or,DC=th
+CN=SPAdmin IT,OU=SharePoint_IT,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=HR,OU=HRS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=e-Authentication Day,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00274,CN=Computers,DC=etda,DC=or,DC=th
+CN=Cybersecurity Survey,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=ITSC,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=HealthMailboxb7a28f6d15e542b4afc474ca6fb7ce1d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailboxae324ae51d56426fa27f7ccf47441dc6,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox78a19ff7972c463fb827a4cadf6ddb02,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox6e7ad466ab20409790a2467a7dd10063,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00189,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00169,CN=Computers,DC=etda,DC=or,DC=th
+CN=Reception3 .,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB-00145,CN=Computers,DC=etda,DC=or,DC=th
+CN=PCSOC-01,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailboxcf337749ebfa4e5f9b469852a1a67430,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00186,CN=Computers,DC=etda,DC=or,DC=th
+CN=iPhone§3CAQFBRITD5OBBADH3CTCU3BB0,CN=ExchangeActiveSyncDevices,CN=Pavittra Lerkngam,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1989678088,CN=ExchangeActiveSyncDevices,CN=Thusanan Jakklang,OU=ISS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc933037351,CN=ExchangeActiveSyncDevices,CN=Natthaphat Rojanasupamit,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§SEIVP14UVD4EN7O1LI05VOBIGK,CN=ExchangeActiveSyncDevices,CN=Siriphan Varnakovida,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§BG385R4MLH3UF0085SQB72FOLG,CN=ExchangeActiveSyncDevices,CN=Nattanai Roudreiw,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§4BTQ3ES2IL52V9COC2FSBGRL94,CN=ExchangeActiveSyncDevices,CN=Tanut Ohmpornnuwat,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§7A0317D0BAB034031AE3126263F2E5BA,CN=ExchangeActiveSyncDevices,CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§6THEEFG9594NRBVHTL1G0H00MK,CN=ExchangeActiveSyncDevices,CN=Ratithorn Srimanop,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§HN0A9GQQHP0T9ET5TI96SUEV70,CN=ExchangeActiveSyncDevices,CN=Waiphot Phaungmaiming,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§N5HKFRTACD1053H76BH3M8HV1S,CN=ExchangeActiveSyncDevices,CN=Thitikorn Trakoonsirisak,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§DDN97FLOOT4S3DVK0BF3MJDOQK,CN=ExchangeActiveSyncDevices,CN=Parinya Inkhong,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§153K85KV1D3U96FRC6OOKBMPPG,CN=ExchangeActiveSyncDevices,CN=Khemiga Sakulphat,OU=INA,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplC38M4LFDFRC6,CN=ExchangeActiveSyncDevices,CN=Rattanakorn Chawang,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMJ710F§SEC17A4D666367EA,CN=ExchangeActiveSyncDevices,CN=Nipattra Piyabunditkul,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Outlook§93643DF61C68CA0F,CN=ExchangeActiveSyncDevices,CN=Sorakit Assawakunlawanich,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Wiphawee Keawpenthong,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Wiphawee Keawpenthong,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§2KAJH3SA8H3MD1IMG9DN4MM3AS,CN=ExchangeActiveSyncDevices,CN=Wiphawee Keawpenthong,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§J6GJAJ8S2T23L660NOK991JEE8,CN=ExchangeActiveSyncDevices,CN=Ratirath Pankaew,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc1888153558,CN=ExchangeActiveSyncDevices,CN=Chayarop Panichuttra,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§android1437280229685,CN=ExchangeActiveSyncDevices,CN=Rungkiat Pirunkittikul,OU=RMS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Sirinut Thangthumachit,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sirinut Thangthumachit,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ASUSASUSZ002§ASUSc1370980367,CN=ExchangeActiveSyncDevices,CN=Sirinut Thangthumachit,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§20D8CB0C204CCFDE54DAFC755C3D0CBD,CN=ExchangeActiveSyncDevices,CN=Setthawhut Saennam,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMT819Y§SEC162523530E760,CN=ExchangeActiveSyncDevices,CN=Sirinut Thangthumachit,OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxf01261551ae44e10a9412aa03a0d80dc,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxf01261551ae44e10a9412aa03a0d80dc,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=Pongsatorn Waiprasit,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Pongsatorn Waiprasit,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§N1GNECJSOL777ANB0LULUPQRDG,CN=ExchangeActiveSyncDevices,CN=Pongsatorn Waiprasit,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc906933093,CN=ExchangeActiveSyncDevices,CN=Virat Sarithuratsiri,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§P0LVO4N1B93L79SPCTTGN1OV44,CN=ExchangeActiveSyncDevices,CN=Siratchaya Phayakkasem,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§16A77E1247BE80A1964FA5A08E4E412B,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMPMR1A3FK12,CN=ExchangeActiveSyncDevices,CN=Nattapong Worapivut,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc935063156,CN=ExchangeActiveSyncDevices,CN=Wandee Srimonthok,OU=CDS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§3ABDPL6IDT7H5E433S077PL4F4,CN=ExchangeActiveSyncDevices,CN=Pennapa Hoyraya,OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMG900F§SEC1EF1A6328AA95,CN=ExchangeActiveSyncDevices,CN=Krisda Thongphet,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=Android§androidc483808554,CN=ExchangeActiveSyncDevices,CN=Chalong Amornratanayut,OU=QAS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§HU4DS3AVAP1TH32TT7K7AMMJIC,CN=ExchangeActiveSyncDevices,CN=Surasak Sata,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§9E207QNPNH3PB53366HLVAG7N0,CN=ExchangeActiveSyncDevices,CN=Siriphan Varnakovida,OU=ETS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§ApplDQGN29X5DTWD,CN=ExchangeActiveSyncDevices,CN=Pantipa Chandapradit,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§4MBHTHNA1137RCB03BJPI74VP8,CN=ExchangeActiveSyncDevices,CN=Tanut Ohmpornnuwat,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§7BQKUHQAGL7VL67UI3APPT8VC8,CN=ExchangeActiveSyncDevices,CN=Krit Khaouppatham,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMPJVUP3F192,CN=ExchangeActiveSyncDevices,CN=Wanawit Ahkuputra,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§FN215CGSSL1A33AVA13NKL8L8S,CN=ExchangeActiveSyncDevices,CN=Chanida Boonchronchotikul,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§OF2FOJ2RD10NH3IJQPU5O6U4QO,CN=ExchangeActiveSyncDevices,CN=Soranun Jiwasurat,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=iPod§IUJLI6DIK95G34I8VL7R5T55QK,CN=ExchangeActiveSyncDevices,CN=Kancharat Butprasurt,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§2JMJS0T2HT6OJ8RU15T6DS8HAC,CN=ExchangeActiveSyncDevices,CN=Paises Charoenpanish,OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Chotika Sinno,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§LB3OCB6F252QH657VJD39CSGLC,CN=ExchangeActiveSyncDevices,CN=Chotika Sinno,OU=ESS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§4RG5A0QN2H68J3H093IKI4P4CO,CN=ExchangeActiveSyncDevices,CN=Rungwit Jitsongsang,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§UF5H3CH5H15I3A2G2JRNDR0CF8,CN=ExchangeActiveSyncDevices,CN=Pimchanok Jekpoo,OU=ITS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§00435533HT5M10KK4T28D5BSM0,CN=ExchangeActiveSyncDevices,CN=Chatchai Suttawes,OU=Top Executive,OU=Main,DC=etda,DC=or,DC=th
+CN=SonyE5803§androidc81025147,CN=ExchangeActiveSyncDevices,CN=Nuttachot Dusitanont,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMN910C§SEC10B3A7B1B7FD2,CN=ExchangeActiveSyncDevices,CN=Supachok Jantarapatin,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§R5B4INSN4145RF5JITU376VP6C,CN=ExchangeActiveSyncDevices,CN=Thongchai Sangsiri,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxcf337749ebfa4e5f9b469852a1a67430,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxcf337749ebfa4e5f9b469852a1a67430,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxb7a28f6d15e542b4afc474ca6fb7ce1d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxb7a28f6d15e542b4afc474ca6fb7ce1d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=D3PRINT1P,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3PRINT1P-ETDA_Print,CN=D3PRINT1P,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00291,CN=Computers,DC=etda,DC=or,DC=th
+CN=SystemMailbox{00816546-34d2-4c8e-9639-026bd9be4f78},CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00298,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00195,CN=Computers,DC=etda,DC=or,DC=th
+CN=Kritsadapong Panithantham,OU=TFS,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00297,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00027,CN=Computers,DC=etda,DC=or,DC=th
+OU=OES,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Siriporn Thongkaew,OU=MES,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00180,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00016,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00308,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00300,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00269,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00181,CN=Computers,DC=etda,DC=or,DC=th
+CN=HealthMailboxa8d5650e874d4c2b9700c1f740f7a97d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00301,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00114,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00163,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00293,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00286,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00299,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00281,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00320,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00289,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00283,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00295,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00231,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00166,CN=Computers,DC=etda,DC=or,DC=th
+CN=Nakharin Limrungsi,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=AX Report,OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00282,CN=Computers,DC=etda,DC=or,DC=th
+CN=KLOperators,CN=Users,DC=etda,DC=or,DC=th
+CN=Windows2003Update,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=ActiveDirectoryUpdate,CN=DomainUpdates,CN=System,DC=etda,DC=or,DC=th
+CN=D3ITAV01,CN=Computers,DC=etda,DC=or,DC=th
+CN=KLAdmins,CN=Users,DC=etda,DC=or,DC=th
+CN=D3ITDC01,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=DFSR-LocalSettings,CN=D3ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D3ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D3ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=NB-00170,CN=Computers,DC=etda,DC=or,DC=th
+CN={1691973E-8CE4-4EF9-8BEB-D8953A6534ED},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Machine,CN={1691973E-8CE4-4EF9-8BEB-D8953A6534ED},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=User,CN={1691973E-8CE4-4EF9-8BEB-D8953A6534ED},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN={F3C081B5-9CDC-4EEC-BC55-045498E97E23},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Machine,CN={F3C081B5-9CDC-4EEC-BC55-045498E97E23},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=User,CN={F3C081B5-9CDC-4EEC-BC55-045498E97E23},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=NB00170,CN=Computers,DC=etda,DC=or,DC=th
+OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=vip1,OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=vip2,OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=vip3,OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=vip4,OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=vip5,OU=VIP,OU=Main,DC=etda,DC=or,DC=th
+CN=CSR,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=SharePoint Admin,OU=SharePoint,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=DBAdmin IT,OU=SharePoint_IT,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=D3SVITPPR01,CN=Computers,DC=etda,DC=or,DC=th
+CN=Outlook§143F56A6BABBFB6B,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=pitinan,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=D3SVITPAP05,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPAP08,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCDBITPDB01,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPAP09,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00284,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00288,CN=Computers,DC=etda,DC=or,DC=th
+CN=freenas,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00250,CN=Computers,DC=etda,DC=or,DC=th
+OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=VPN,OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=SVHVTEST01,CN=Computers,DC=etda,DC=or,DC=th
+CN=Microsoft Hyper-V,CN=SVHVTEST01,CN=Computers,DC=etda,DC=or,DC=th
+CN=helpdesk,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=Pathorn Tengkiattrakul,OU=SDS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Avatsada Chaisongkram,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Sarayut Bunlertkul,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Nuttapol Sureepong,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Avatsada Chaisongkram,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=WindowsMail§4F571D39D99598DD6315E1E7C6F5BEC1,CN=ExchangeActiveSyncDevices,CN=Avatsada Chaisongkram,OU=BES,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=oed-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00135,CN=Computers,DC=etda,DC=or,DC=th
+CN=Chatchanok Sakhakorn,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=WIN-OCDB39GJUAL,CN=Computers,DC=etda,DC=or,DC=th
+CN=WIN-F91L5MR3O9R,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETAX Service,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Lalita Hengsor,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=oec-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=oga-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=oia-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=oif-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=ois-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=ola-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=ood-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=osd-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=osg-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=ooc-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=oit-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=odb-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=it_nss,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=iPad§ApplDMPL1EFGF18W,CN=ExchangeActiveSyncDevices,CN=Worawit Techasupakura,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=D2ITVM,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETDA-FIN,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=someone,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Somruthai Mahawong,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=Yutthana Boonmalai,OU=IASS,OU=OIA,OU=Main,DC=etda,DC=or,DC=th
+CN=Itsaya Wanichwaranont,OU=DIS,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox57c2fe55b66a49ce8ac2a03998d6d042,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox57c2fe55b66a49ce8ac2a03998d6d042,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox165d5b7da1ec4db9ba3776252f12a09c,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox19f9da67477848548ef207326a9c1156,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox018cae8867fe4f99a8b77c42ae51bc6f,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailbox1a1604a7d2f144edaba1e7344609e130,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox1deb90c530e942a98db3aa73e7994932,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox1deb90c530e942a98db3aa73e7994932,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox19f9da67477848548ef207326a9c1156,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox19f9da67477848548ef207326a9c1156,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailboxa8d5650e874d4c2b9700c1f740f7a97d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailboxa8d5650e874d4c2b9700c1f740f7a97d,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=D3SVITPBK02,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPMO01,CN=Computers,DC=etda,DC=or,DC=th
+CN=e-catalogue,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=D3SVITPBK01,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00188,CN=Computers,DC=etda,DC=or,DC=th
+CN=K2 Admin,OU=K2,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00290,CN=Computers,DC=etda,DC=or,DC=th
+CN=SMEs Go Online,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=sme,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB-00158,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00001,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00311,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00312,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00277,CN=Computers,DC=etda,DC=or,DC=th
+CN=Khanit Phatong,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Chapat Chuangaroon,OU=HRS,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00156,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3DZITPWW02,CN=Computers,DC=etda,DC=or,DC=th
+CN=d2svitpsn01,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPDB06,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPAP08,CN=Computers,DC=etda,DC=or,DC=th
+CN=AX Service,OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=SPService IT,OU=SharePoint_IT,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=AX Proxy,OU=AX,OU=App Users,OU=Main,DC=etda,DC=or,DC=th
+CN=Viriya Upatising,OU=Executive Board,OU=Main,DC=etda,DC=or,DC=th
+CN=DCSVITPAP06,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00200,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPVC01,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3DVITDDB01,CN=Computers,DC=etda,DC=or,DC=th
+CN=ETDA-IT-I55,CN=Computers,DC=etda,DC=or,DC=th
+CN=XETDA-IT-I55X,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3DVITDAP01,CN=Computers,DC=etda,DC=or,DC=th
+CN=MSOL_ae54b9ecb5cd,CN=Users,DC=etda,DC=or,DC=th
+CN=DCSVITPAP04,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00316,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITDWW02,CN=Computers,DC=etda,DC=or,DC=th
+CN=DCSVITPAP03,CN=Computers,DC=etda,DC=or,DC=th
+CN=iPhone§JC0UB2065T3HH5GHK5Q3T1GVMC,CN=ExchangeActiveSyncDevices,CN=Lalita Hengsor,OU=INS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=uniflow,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00317,CN=Computers,DC=etda,DC=or,DC=th
+CN=XDCSVITPAP06X,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPDB07,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPDS01,CN=Computers,DC=etda,DC=or,DC=th
+CN=XD3SVITPDB02,CN=Computers,DC=etda,DC=or,DC=th
+CN=XDCDVITPAP03X,CN=Computers,DC=etda,DC=or,DC=th
+CN={acf7a35d-5bf0-465b-86a9-e36599bac4da},CN=D3SVITPVC01,CN=Computers,DC=etda,DC=or,DC=th
+CN=RID Set,CN=D2ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=D2ITDC01,CN=Topology,CN=Domain System Volume,CN=DFSR-GlobalSettings,CN=System,DC=etda,DC=or,DC=th
+CN=DFSR-LocalSettings,CN=D2ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D2ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=SYSVOL Subscription,CN=Domain System Volume,CN=DFSR-LocalSettings,CN=D2ITDC01,OU=Domain Controllers,DC=etda,DC=or,DC=th
+CN=customerservice,OU=Global Distribution List,DC=etda,DC=or,DC=th
+CN=NB00224,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00179,CN=Computers,DC=etda,DC=or,DC=th
+OU=Project,DC=etda,DC=or,DC=th
+OU=PMO,OU=Project,DC=etda,DC=or,DC=th
+CN=Kulthirath Pakawachkrilers,OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=Chananun Pangthai,OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=Kitt Laoarpornkul,OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=Suprasineenid Thongrujirod,OU=VPN,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00212,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00138,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00244,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00296,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00307,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00314,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00217,CN=Computers,DC=etda,DC=or,DC=th
+CN=Outlook§BA266CD8DEDB34B7,CN=ExchangeActiveSyncDevices,CN=Sorot Panichprecha,OU=OIF,OU=Main,DC=etda,DC=or,DC=th
+CN=smesgoonline_reg,OU=Project,DC=etda,DC=or,DC=th
+CN=smesgoonline_reg2,OU=Project,DC=etda,DC=or,DC=th
+CN=NB00226,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00173,CN=Computers,DC=etda,DC=or,DC=th
+CN=Thailand PKI Association,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00272,CN=Computers,DC=etda,DC=or,DC=th
+CN=International Relations,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00211,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00141,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00142,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00174,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00203,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00178,CN=Computers,DC=etda,DC=or,DC=th
+CN=Metha Rattanachompoo,OU=EIS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Thummika Phetmuang,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00236,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00210,CN=Computers,DC=etda,DC=or,DC=th
+CN=ThailandMegaSale-support,OU=Project,DC=etda,DC=or,DC=th
+CN=root,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=Wiwadjanee Soodket,OU=OCS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Sikharin Suwannatrai,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=LAW Amendment,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB00191,CN=Computers,DC=etda,DC=or,DC=th
+CN=D3SVITPDB02,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00310,CN=Computers,DC=etda,DC=or,DC=th
+CN=DESKTOP-81M6FMD,CN=Computers,DC=etda,DC=or,DC=th
+OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+OU=CES,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Office of Corporate Communication,OU=Local Distribution List,DC=etda,DC=or,DC=th
+OU=MES,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+OU=IFI,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=CCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+OU=EDS,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=HealthMailbox1e69f1ba632a45ae9401dfaa8d2d8ea2,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=HealthMailboxbf1f404b0cb447c99f6a8ba0382adffc,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB-00313,CN=Computers,DC=etda,DC=or,DC=th
+CN=KAVWSEE Administrators,CN=Users,DC=etda,DC=or,DC=th
+CN=KAVWSEE Administrators\0ACNF:54c22776-61a9-41c5-b6c8-7b16014668df,CN=Users,DC=etda,DC=or,DC=th
+CN=NB00247,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00197,CN=Computers,DC=etda,DC=or,DC=th
+OU=EPS,OU=OLA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00215,CN=Computers,DC=etda,DC=or,DC=th
+CN=Praparat Chaiyot,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Sombat Chaninngam,OU=SCS,OU=OSD,OU=Main,DC=etda,DC=or,DC=th
+CN=Chonticha Mardnok,OU=PRS,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00240,CN=Computers,DC=etda,DC=or,DC=th
+CN=rndadmin,OU=NSS,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=ecommerceweek,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00285,CN=Computers,DC=etda,DC=or,DC=th
+CN=tewevent,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=tewsponsor,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=Stephane Vaillancourt,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=topmid-share,OU=O365,OU=Main,DC=etda,DC=or,DC=th
+CN=Phaichayont Vimuktanandana,OU=ODB,OU=Main,DC=etda,DC=or,DC=th
+CN=Chanisa   Suvarnasara,OU=OED,OU=Main,DC=etda,DC=or,DC=th
+CN=Kanchalika   Dechates,OU=ITS,OU=OSG,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00176,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00275,CN=Computers,DC=etda,DC=or,DC=th
+OU=Test,DC=etda,DC=or,DC=th
+CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Machine,CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=User,CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Class Store,CN=Machine,CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=Packages,CN=Class Store,CN=Machine,CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=85140fa0-2523-49c1-a448-7f866fbbf388,CN=Packages,CN=Class Store,CN=Machine,CN={6CFA4237-8DC2-471F-97D5-996F0CC3C810},CN=Policies,CN=System,DC=etda,DC=or,DC=th
+CN=itsupport,OU=Local Distribution List,DC=etda,DC=or,DC=th
+CN=NB-00204,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00239,CN=Computers,DC=etda,DC=or,DC=th
+CN=SAMSUNGSMA910F§null,CN=ExchangeActiveSyncDevices,CN=Worawit Techasupakura,OU=CPS,OU=OOD,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00258,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB-00198,CN=Computers,DC=etda,DC=or,DC=th
+CN=Mongkhon  Saechan,OU=PPS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00221,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00229,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00196,CN=Computers,DC=etda,DC=or,DC=th
+CN=Natcha Ar-lae,OU=FAS,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00137,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00208,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00323,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00201,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00213,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC-00004,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00280,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00164,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00020,CN=Computers,DC=etda,DC=or,DC=th
+CN=PC00021,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00266,CN=Computers,DC=etda,DC=or,DC=th
+CN=DESKTOP-2216KBM,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00153,CN=Computers,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=HealthMailbox1fe05e60191944ca8710f2817bea67ca,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=EASProbeDeviceType§EASProbeDeviceId141,CN=ExchangeActiveSyncDevices,CN=HealthMailbox1fe05e60191944ca8710f2817bea67ca,CN=Monitoring Mailboxes,CN=Microsoft Exchange System Objects,DC=etda,DC=or,DC=th
+CN=NB00167,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00172,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00205,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00157,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00264,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00302,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00254,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00319,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00219,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00162,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00245,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00279,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00160,CN=Computers,DC=etda,DC=or,DC=th
+CN=Sitanan Chunlasen,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00183,CN=Computers,DC=etda,DC=or,DC=th
+CN=Sanya Klongnaivai,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Pattaraphon Wongcomena,OU=TCS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=Panwadee  Chomwattana,OU=OCC,OU=Main,DC=etda,DC=or,DC=th
+CN=Jijeerat  Kumrabay,OU=OGA,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00292,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00303,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00276,CN=Computers,DC=etda,DC=or,DC=th
+CN=OITLead,OU=OIT,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00287,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00294,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00246,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00182,CN=Computers,DC=etda,DC=or,DC=th
+CN=Info,OU=OEC,OU=Main,DC=etda,DC=or,DC=th
+CN=ExchangeActiveSyncDevices,CN=Sanya Klongnaivai,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=iPhone§U1G81CSO4L3A79EU1PAGKUDNB0,CN=ExchangeActiveSyncDevices,CN=Sanya Klongnaivai,OU=ADS,OU=OIS,OU=Main,DC=etda,DC=or,DC=th
+CN=NB00313,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00273,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00194,CN=Computers,DC=etda,DC=or,DC=th
+CN=NB00220,CN=Computers,DC=etda,DC=or,DC=th

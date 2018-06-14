@@ -1,0 +1,33 @@
+  </div>
+  <!-- /.content-wrapper -->
+  <footer class="main-footer">
+    <div class="container">
+      <div class="pull-right hidden-xs">
+        <strong>Copyright &copy; 2018 <a href="http://www.openidp.org">Open IdP (V.<%=version%>)%></a>.</strong> All rights reserved.
+      </div>
+    </div>
+    <!-- /.container -->
+  </footer>
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery 3 -->
+<script src="<%=baseUrl%>/bower_components/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap 3.3.7 -->
+<script src="<%=baseUrl%>/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- SlimScroll -->
+<script src="<%=baseUrl%>/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+<!-- FastClick -->
+<script src="<%=baseUrl%>/bower_components/fastclick/lib/fastclick.js"></script>
+<!-- AdminLTE App -->
+<script src="<%=baseUrl%>/dist/js/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="<%=baseUrl%>/dist/js/demo.js"></script>
+
+<script>
+  var pathname = window.location.pathname;
+  var menu = pathname.split('/')[2];
+  $('#'+ menu +'_menu').attr('class','active');
+</script>
+</body>
+</html>
