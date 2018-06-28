@@ -144,7 +144,8 @@ class OAuthService {
       idToken.birthdate = user.birthdate;
       idToken.address = user.address;
       idToken.business_address = user.businessAddress;
-      idToken.phone_number = user.phoneNumber
+      idToken.phone_number = user.phoneNumber;
+      idToken.email = user.email;
     }else if(scopes.includes('profile')) {
       idToken.given_name = user.firstname;
       idToken.family_name = user.lastname;

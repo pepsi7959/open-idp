@@ -21,6 +21,8 @@ const app = express();
 app.set('json spaces', 4);
 app.use(session({
   secret: 'OpenIDPSecret',
+  resave: true,
+  saveUninitialized: true
 }));
 
 app.use(function(req, res, next) {

@@ -1,23 +1,25 @@
 'use strict'
 
-const UserService = require('./services/user-service');
-const userService = new UserService();
+const {mongoose} = require('./db/mongoose');
+const User = require('./models/user');
 
-async function init() {
+const user = new User({
+  username: 'alice',
+  password: '1234',
+  firstname: 'Alice',
+  lastname: 'Wonderland',
+  email: 'alice@etda.or.th',
+  nationalId: '110145333231',
+  passportNumber: 'A145335'
+});
 
-  const username = "admin";
-  const password = "P@ssw0rd";
-
-  await userService.create({
-    username: username,
-    password: password,
-    firstname: 'admin',
-    lastname: 'admin',
-    email: 'admin@admin.com',
-    isAdmin: true
-  });
-  console.log('Create admin user successfully (username:'+username+', password:'+password+')');
-  process.exit();
+async function main() {
+  return await user.save();
 }
 
-init();
+main().then(() => {
+  console.log('done');
+}).catch((err) => {
+  console.log(err);
+});
+
