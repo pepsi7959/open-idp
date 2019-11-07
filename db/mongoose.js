@@ -3,6 +3,6 @@
 const mongoose = require('mongoose');
 
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb://localhost:27017/OpenIDP');
+mongoose.connect('mongodb://mongo:27017/OpenIDP', { useNewUrlParser: true, useUnifiedTopology: true });
 
 module.exports = {mongoose};

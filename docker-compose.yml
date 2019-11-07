@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8888:3002"
+    depends_on:
+      - mongo
+  mongo:
+    image: mongo
+    ports:
+      - 27017
+    volumes:
+      - ./data/mongo:/data/db
