@@ -7,7 +7,7 @@ RUN apt-get update \
 RUN curl -sL https://deb.nodesource.com/setup_8.x | bash -
 RUN apt-get install -y nodejs
 RUN wget https://github.com/pepsi7959/open-idp/archive/master.zip \
-  && unzip master.zip -d /tmp/ && mv /tmp/openid-idp-master/* /app/ && rm -rf  master.zip
+  && unzip master.zip -d /tmp/ && mv /tmp/open-idp-master/* /app/ && rm -rf  master.zip
 RUN npm install
 RUN node seed.js
 env PORT 3002

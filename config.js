@@ -1,7 +1,7 @@
 require('dotenv').config();
 module.exports = {
   port: process.env.PORT,
-  baseUrl: "https://eid-pi-idp1.proxy1.digitalid.or.th" || process.env.BASE_URL,
+  baseUrl: process.env.BASE_URL,
   version: "0.1.0",
   serverKey: 'server.key',
   scope: ['openid', 'profile_kyc', 'profile'],
