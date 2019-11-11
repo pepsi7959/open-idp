@@ -22,8 +22,8 @@ node seed.js
 ### Run
 
 ```bash
-vi config.json     //edit configuration for your environment
-vi db/mongoose.js  //edit location of moongodb
+vi config.json     # edit configuration for your environment
+vi db/mongoose.js  # edit location of moongodb
 npm start
 ```
 
@@ -52,8 +52,8 @@ services:
 ### Usage
 
 ```bash
-go to http://localhost:3002       // this is the default port
-username: alice, password: 1234   // this is the default username/password from seed.js
+go to http://localhost:3002       # this is the default port
+username: alice, password: 1234   # this is the default username/password from seed.js
 ```
 
 ### example 
